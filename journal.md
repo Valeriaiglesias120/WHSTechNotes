@@ -6,3 +6,6 @@ This is my first entry.
 I choose period 6, The robot works By placing a block if then else inside another block if then else, it has just started a programming structure called conditional nested. This structure helps programmers execute different commands with more than one condition. A robot combines several advanced technologies to provide accurate and useful educational answers continuously improving through interaction with users and machine learning.
 
 # September 13, 2024
+ I choose period 4, The robot detects when it hits an object (like a foot!) And then change the direction and color of the main LED.
+
+With BOLT there are many event options: in case of collision, landing, in free fall, with maximum gyroscope, in load, in absence of load and in case of message received.
