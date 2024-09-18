@@ -9,3 +9,7 @@ I choose period 6, The robot works By placing a block if then else inside anothe
  I choose period 4, The robot detects when it hits an object (like a foot!) And then change the direction and color of the main LED.
 
 With BOLT there are many event options: in case of collision, landing, in free fall, with maximum gyroscope, in load, in absence of load and in case of message received.
+# September 18, 2024
+I choose period 3, Animations are like animated books: the image will not animate or move until you add more frames with slightly different images. In the application
+
+Sphero Edu, you can make a duplicate of the initial frame so you don't have to draw the image again from scratch each, Explain that you can make an animation in the robot.
