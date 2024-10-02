@@ -13,3 +13,8 @@ With BOLT there are many event options: in case of collision, landing, in free f
 I choose period 3, Animations are like animated books: the image will not animate or move until you add more frames with slightly different images. In the application
 
 Sphero Edu, you can make a duplicate of the initial frame so you don't have to draw the image again from scratch each, Explain that you can make an animation in the robot.
+# September 27, 2024
+How does precision affect the outcome of a program? A program with high precision will be more effective and efficiente in achieving the client's fitness ngoals, while a program  with low precision may not be as effective or efficient.
+What can happen if steps or details are missed in coding? if steps or details are missed in coding it can lead to a variety of problems, including syntax errors, logical errors, or runtime erros, which can prevent the program from executing correctly.
+Why is it important to develop good habits of attention to detail early in your coding journey? The habits you develop early on will carry forward to future projects.
+# September 30, 2024
